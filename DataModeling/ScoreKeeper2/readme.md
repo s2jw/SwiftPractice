@@ -13,6 +13,7 @@ Unit Test Target
 - test product는 app product와 분리되어 있음. 그래서 app을 import해야 함
 `@testable import ScoreKeeper`
 - #expect | swift testing의 assertion (검증문). 값이 기대한 조건을 만족하는지 검증
+
 [참고] https://developer.apple.com/documentation/xcode/testing
 
 ### @Previewable 매크로
