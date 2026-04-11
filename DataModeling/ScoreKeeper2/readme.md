@@ -23,6 +23,7 @@ Unit Test Target
 - 같다, 다르다를 판단할 수 있게 만들어 줌
 - Swift automatically provides an implementation that compares all properties of the type and returns true if they’re equal. 
 
+### Others
 - lhs : lefthand side / rhs : righthand side
 
 
