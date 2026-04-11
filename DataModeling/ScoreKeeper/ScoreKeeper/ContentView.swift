@@ -7,12 +7,6 @@
 
 import SwiftUI
 
-struct Player: Identifiable {
-    let id = UUID()
-    var name: String
-    var score: Int
-}
-
 struct ContentView: View {
 //    @State private var players: [String] = ["Elisha", "Andre", "Jasmine"]
 //    @State private var scores: [Int] = [0, 0, 0]
