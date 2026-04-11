@@ -11,9 +11,7 @@ Unit Test Target
 앱 실행 없이 코드만 테스트! 로직 테스트. 단위 테스트
 - @Test | 이 함수를 test method로 표시. 하나의 테스트 케이스
 - test product는 app product와 분리되어 있음. 그래서 app을 import해야 함
-'''
-@testable import ScoreKeeper
-'''
+₩@testable import ScoreKeeper₩
 - #expect | swift testing의 assertion (검증문). 값이 기대한 조건을 만족하는지 검증
 [참고] https://developer.apple.com/documentation/xcode/testing
 
