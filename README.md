@@ -11,7 +11,7 @@
 ### Data Modeling
 | Chapter | Topic | Tutorial | Code |
 |---------|-------|----------|------|
-| 6 | Custom types and Swift Testing | [Apple Docs](https://developer.apple.com/tutorials/develop-in-swift/welcome-to-data-modeling) | [ScoreKeeper]([tutorial/06.%20ScoreKeeper/README.md](https://github.com/frutacruda/SwiftPractice/tree/main/DataModeling/ScoreKeeper)) [ScoreKeeper2](https://github.com/frutacruda/SwiftPractice/tree/main/DataModeling/ScoreKeeper2)|
+| 6 | Custom types and Swift Testing | [Apple Docs](https://developer.apple.com/tutorials/develop-in-swift/welcome-to-data-modeling) | [ScoreKeeper](https://github.com/frutacruda/SwiftPractice/tree/main/DataModeling/ScoreKeeper)) [ScoreKeeper2](https://github.com/frutacruda/SwiftPractice/tree/main/DataModeling/ScoreKeeper2)|
 | 7 | Models and persistence | [Apple Docs](https://developer.apple.com/tutorials/develop-in-swift/save-data) | [Birthdays]([tutorial/07.%20Birthdays/README.md](https://github.com/frutacruda/SwiftPractice/tree/main/DataModeling/Birthdays)) |
 | 8 | Navigation, editing, and relationships | [Apple Docs](https://developer.apple.com/tutorials/develop-in-swift/navigate-sample-data) | [FriendsFavoriteMovies]() |
 | 9 | Observation and shareable data models | [Apple Docs](https://developer.apple.com/tutorials/develop-in-swift/complete-a-game-with-logic) | |
