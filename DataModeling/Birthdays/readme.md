@@ -1,5 +1,5 @@
 ## [Data Modeling] 2. Models and persistence - Save data
-https://developer.apple.com/tutorials/develop-in-swift/save-data
+[🔗link](https://developer.apple.com/tutorials/develop-in-swift/save-data)
 
 
 ---
@@ -7,7 +7,7 @@ https://developer.apple.com/tutorials/develop-in-swift/save-data
 stored as seconds past a fixed reference. The start of the year 1970 is one of those reference dates, known as the Unix epoch.
 - **timeIntervalSince1970** : 1970년 1월 1일 자정을 0으로 해서 현재까지의 시간을 초 second로 환산해서 시간을 표현하는 방식
 
-[참고] https://developer.apple.com/documentation/foundation/nsdate/timeintervalsince1970
+[참고] [Apple Developer Documentation](https://developer.apple.com/documentation/foundation/nsdate/timeintervalsince1970)
 
 ### .safeAreaInset
 can anchor content to any side of the screen
