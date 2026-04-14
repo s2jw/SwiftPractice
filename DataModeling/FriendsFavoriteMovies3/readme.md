@@ -17,6 +17,7 @@ A logical condition used to test a set of input values for searching or filterin
 - SwiftData에서 데이터를 필터링하기 위한 조건을 설명하는 것. predicate가 true return 시 해당 항목 표시
 - (ex. SQL WHERE절 = #predicate)
 ```#Predicate<모델타입> { 조건 }```
+
 [참고] [Apple Developer Documentation](https://developer.apple.com/documentation/foundation/predicate)
 
 
@@ -32,12 +33,14 @@ A logical condition used to test a set of input values for searching or filterin
         _movies = Query(filter: predicate, sort: \Movie.title)
     }
 ```
+
 [참고] [Apple Developer Documentation](https://developer.apple.com/documentation/SwiftUI/Adding-a-search-interface-to-your-app)
 
 
 ### ContentUnavailableView
 An interface, consisting of a label and additional content, that you display when the content of your app is unavailable to users.
 - 데이터가 없을 때 노출되는 화면 (ex. 데이터를 추가해보세요!)
+
 [참고] [Apple Developer Documentation](https://developer.apple.com/documentation/swiftui/contentunavailableview)
 
 
