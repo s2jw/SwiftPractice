@@ -24,3 +24,16 @@ specifies how large scalable content should be.
   <img src="./img/screenshot3.png" width="300">
 </p>
 
+
+
+---
+## [App Development] 3-2. App refinement - Investigate and fix a bug
+[🔗 link](https://developer.apple.com/tutorials/develop-in-swift/investigate-and-fix-a-bug)
+
+
+### Unit Test
+- 함수, 메소드 등 최소 단위의 코드가 의도대로 정확히 동작하는지 검증하는 자동화된 절차
+
+
+
+
