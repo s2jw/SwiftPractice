@@ -20,7 +20,7 @@
 | Chapter | Topic | Tutorial | Code |
 |---------|-------|----------|------|
 | 10 | Views and data storage | [Apple Docs](https://developer.apple.com/tutorials/develop-in-swift/welcome-to-app-development) | [GratefulMoments](https://github.com/frutacruda/SwiftPractice/tree/main/AppDevelopment/GratefulMoments) |
-| 11 | User experience features | [Apple Docs](https://developer.apple.com/tutorials/develop-in-swift/create-an-algorithm-for-badges) | |
+| 11 | User experience features | [Apple Docs](https://developer.apple.com/tutorials/develop-in-swift/create-an-algorithm-for-badges) |[GratefulMoments-CreateAnAlgorithmForBadges](https://github.com/frutacruda/SwiftPractice/tree/main/AppDevelopment/GratefulMoments-CreateAnAlgorithmForBadges) |
 | 12 | App refinement | [Apple Docs](https://developer.apple.com/tutorials/develop-in-swift/add-inclusive-features) | |
 
 ### Machine Learning and AI
