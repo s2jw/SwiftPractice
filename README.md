@@ -26,7 +26,7 @@
 ### Machine Learning and AI
 | Chapter | Topic | Tutorial | Code |
 |---------|-------|----------|------|
-| 13 | Natural language | [Apple Docs](https://developer.apple.com/tutorials/develop-in-swift/welcome-to-machine-learning-and-ai) | |
+| 13 | Natural language | [Apple Docs](https://developer.apple.com/tutorials/develop-in-swift/welcome-to-machine-learning-and-ai) |[HikingSurvey](https://github.com/frutacruda/SwiftPractice/tree/main/MachineLearningandAI/HikingSurvey) |
 | 14 | Recognize text in images | [Apple Docs](https://developer.apple.com/tutorials/develop-in-swift/extract-text-from-images) | |
 | 15 | Model training with Create ML | [Apple Docs](https://developer.apple.com/tutorials/develop-in-swift/train-a-core-ml-model) | |
 | 16 | Custom models with Core ML | [Apple Docs](https://developer.apple.com/tutorials/develop-in-swift/custom-models-with-core-ml) | |
