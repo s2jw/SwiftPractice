@@ -7,6 +7,7 @@
 ### import NaturalLanguage
 **NLTagger** : accepts a tag scheme that is used to determine information about provided text, such as its lexical class (grammar) or the language it’s written in.
 - 자연어 텍스트를 분석하고 태깅(Tagging, 꼬리표 붙이기)을 처리하는 도구
+  
 **.sentimentScore** : 감성 점수. that scores text as positive, negative, or neutral based on its sentiment polarity.
   
 | **점수 범위** | **의미 (Sentiment)** | **비고** |
